@@ -18,7 +18,6 @@ body, html {
     width: 200px;
     height: 200px;
     border: 2px solid rgb(158, 158, 158);
-    transition: all 0.3s ease;
 }
 
 .cuadrado {
@@ -30,7 +29,7 @@ body, html {
 }
 
 .rojo {
-    background-color: rgb(255, 71, 71);
+    background-color: rgb(255, 90, 90);
 }
 
 .azul {
@@ -46,7 +45,6 @@ body, html {
     bottom: 20px;
     padding: 10px 20px;
     font-size: 16px;
-    cursor: pointer;
     z-index: 10;
 }
 
